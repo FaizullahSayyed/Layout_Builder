@@ -1,1 +1,3 @@
-// Write your code here
+const Footer = () => 'Footer'
+
+export default Footer

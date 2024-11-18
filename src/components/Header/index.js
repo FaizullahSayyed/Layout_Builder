@@ -1,1 +1,3 @@
-// Write your code here
+const Header = () => {}
+
+export default Header
